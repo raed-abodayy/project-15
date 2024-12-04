@@ -9,5 +9,6 @@ public enum RaceState
     Turn,
     Crash,
     Finish,
+    RAED,
 }
 
